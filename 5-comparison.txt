@@ -1,0 +1,5 @@
+
+Non optimised image size:
+bloated-app 888MB
+Optimised image size:
+optimized-app 14.3MB
